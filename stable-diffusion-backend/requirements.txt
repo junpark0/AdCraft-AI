@@ -1,0 +1,21 @@
+Pillow
+diffusers
+transformers
+ultralytics
+opencv-python-headless
+accelerate
+
+#AWS Packages
+boto3
+awscli
+
+#Flask Packages
+flask
+flask_cors
+
+#PyTorch Packages
+--index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+--index-url https://pypi.org/simple
